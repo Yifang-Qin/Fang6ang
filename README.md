@@ -1,4 +1,4 @@
-- Email: zenno@pku.edu.cn
+- Email: qinyifang@pku.edu.cn
 
 <!---
 Fang6ang/Fang6ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
